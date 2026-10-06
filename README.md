@@ -244,4 +244,4 @@ This repository serves as the official landing page for Conquer Online. The soft
 **Get the most recent version of Conquer Online today!**
 
 ---
-**Last updated:** 2026-10-06 00:24:32 UTC
+**Last updated:** 2026-10-06 06:55:32 UTC
